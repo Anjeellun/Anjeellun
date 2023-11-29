@@ -26,7 +26,7 @@
 ![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=wondershare-filmora&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
 
-### Contact Me:
+### Hit Me Up
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anjeligusnawan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjeligusnawan)
