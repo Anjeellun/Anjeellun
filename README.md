@@ -18,52 +18,15 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=wondershare-filmora&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
 
-### Programming Languages and Tools
-
-- Python
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" width="150" height="25">
-- JavaScript
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="150" height="25">
-- HTML5
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" width="150" height="25">
-- CSS3
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" width="150" height="25">
-- Kotlin
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" width="150" height="25">
-- C
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" width="150" height="25">
-- C++
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" width="150" height="25">
-- Java
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" width="150" height="25">
-- Android Studio
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" width="150" height="25">
-- Visual Studio Code
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="150" height="25">
-- XAMPP
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" width="150" height="25">
-- Figma
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" width="150" height="25">
-- Canva
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" width="150" height="25">
-- Apache NetBeans
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" width="150" height="25">
-- CapCut
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" width="150" height="25">
-- Filmora
-  <img src="https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=wondershare-filmora&logoColor=white" alt="Filmora" width="150" height="25">
-- Lightroom
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" alt="Lightroom" width="150" height="25">
-
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeellun)](https://github.com/anjellun/github-readme-stats)
 
