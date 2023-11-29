@@ -26,7 +26,7 @@
 ![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=wondershare-filmora&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
 
----
+<hr style="height:1px; border:none; color:#ccc; background-color:#ccc;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeellun)](https://github.com/anjellun/github-readme-stats)
 
