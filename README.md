@@ -33,11 +33,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anjeellun/)
 
 
-<hr style="height:1px; border:none; color:#ccc; background-color:#ccc;">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeellun)](https://github.com/anjellun/github-readme-stats)
-
 <!--
 **Anjeellun/Anjeellun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
