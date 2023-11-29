@@ -28,11 +28,11 @@
 
 <hr style="height:1px; border:none; color:#ccc; background-color:#ccc;">
 
-📧 **Contact:**
+### 📧 Contact Me At:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anjeligusnawan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjeligusnawan)
-[[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anjeellun/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anjeellun/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeellun)](https://github.com/anjellun/github-readme-stats)
 
