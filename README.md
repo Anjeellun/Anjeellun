@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jel 👋
+
+🎓 Currently navigating the exciting world of academia, I find myself immersed in the dynamic realm of computer science, constantly exploring the intersection of technology and creativity.
+
+💡 My interests are as diverse as my coding journey—whether it's crafting seamless user interfaces, delving into the intricacies of front-end development, or orchestrating projects with a touch of finesse through project management.
+
+🚀 Armed with a linguistic arsenal that includes Python, C, C++, Java, and the markup mastery of HTML and CSS, I'm on a mission to bring ideas to life through the language of code.
+
+🌐 Beyond the realms of syntax, I'm captivated by the dance of colors and pixels in the UI/UX space, aiming to create designs that not only look good but feel intuitive and user-friendly.
 
 <!--
 **Anjeellun/Anjeellun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
