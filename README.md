@@ -6,6 +6,14 @@
 
 🌐 Beyond the realms of syntax, I'm captivated by the dance of colors and pixels in the UI/UX space, aiming to create designs that not only look good but feel intuitive and user-friendly.
 
+### Bahasa Pemrograman dan Alat
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Java
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
