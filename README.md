@@ -1,10 +1,12 @@
 ### Hi everyone, I'm Jel~! 👋
 
-💡 My interests are as diverse as my coding journey—whether it's crafting seamless user interfaces, delving into the intricacies of front-end development, or orchestrating projects with a touch of finesse through project management.
+💡 My interests are as diverse as my coding journey—whether it's crafting seamless user interfaces, delving into the intricacies of front-end development, orchestrating projects with a touch of finesse through project management, or immersing myself in the captivating world of photo and video editing.
 
 🚀 Armed with a linguistic arsenal that includes Python, C, C++, Java, and the markup mastery of HTML and CSS, I'm on a mission to bring ideas to life through the language of code.
 
-🌐 Beyond the realms of syntax, I'm captivated by the dance of colors and pixels in the UI/UX space, aiming to create designs that not only look good but feel intuitive and user-friendly.
+🌐 Beyond the realms of syntax, I'm captivated by the dance of colors and pixels in the UI/UX space, aiming to create designs that not only look good but feel intuitive and user-friendly. Additionally, I find joy in the art of editing photos, videos, and design elements, exploring the boundless possibilities of creative expression.
+
+Feel free to reach out if you share similar interests or if there's a project where our paths can intersect! 🎨✨
 
 ### Programming Languages and Tools
 
