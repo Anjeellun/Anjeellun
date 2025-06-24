@@ -4,7 +4,7 @@ I'm genuinely passionate about project management, game development, web, and mo
 
 I enjoy learning by doing and constantly exploring new tools and workflows. Writing code is one part of it, but I also care a lot about how people experience what I create. A good product should work well, but also feel smooth and easy to use.
 
-If you're into similar things or working on something cool, feel free to reach out—I'd be happy to connect!
+If you're into similar things or working on something cool, feel free to reach out. I'd be happy to connect!
 
 ### Programming Languages and Tools
 
