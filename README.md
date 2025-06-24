@@ -1,12 +1,10 @@
 ### Hi everyone, I'm Jel~! 👋
 
-💡 My interests are as diverse as my coding journey—whether it's crafting seamless user interfaces, delving into the intricacies of front-end development, orchestrating projects with a touch of finesse through project management, or immersing myself in the captivating world of photo and video editing.
+I'm genuinely passionate about project management, game development, web, and mobile apps. I find it exciting to take an idea, figure out how to bring it to life, and build something real that people can actually use.
 
-🚀 Armed with a linguistic arsenal that includes Python, C, C++, Java, and the markup mastery of HTML and CSS, I'm on a mission to bring ideas to life through the language of code.
+I enjoy learning by doing and constantly exploring new tools and workflows. Writing code is one part of it, but I also care a lot about how people experience what I create. A good product should work well, but also feel smooth and easy to use.
 
-🌐 Beyond the realms of syntax, I'm captivated by the dance of colors and pixels in the UI/UX space, aiming to create designs that not only look good but feel intuitive and user-friendly. Additionally, I find joy in the art of editing photos, videos, and design elements, exploring the boundless possibilities of creative expression.
-
-Feel free to reach out if you share similar interests or if there's a project where our paths can intersect! 🎨✨
+If you're into similar things or working on something cool, feel free to reach out—I'd be happy to connect!
 
 ### Programming Languages and Tools
 
@@ -24,8 +22,6 @@ Feel free to reach out if you share similar interests or if there's a project wh
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=wondershare-filmora&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
 
 ### Hit Me Up
